@@ -17,8 +17,8 @@
 
 :root{
 
-    --primary:#0D47A1;
-    --primary-dark:#082b64;
+    --primary:#1E3A5F;
+    --primary-dark:#2C5282;
     --secondary:#FFC107;
     --secondary-dark:#ffb300;
 
@@ -376,7 +376,7 @@ nav a:hover{
 
 .hero{
 
-    background:linear-gradient(135deg,#0D47A1,#1565C0);
+    background:linear-gradient(135deg,#1E3A5F,#1565C0);
 
     min-height:100vh;
 
@@ -1738,7 +1738,7 @@ font-size:15px;
 
 .statistics{
 
-    background:linear-gradient(135deg,#0D47A1,#1565C0);
+    background:linear-gradient(135deg,#1E3A5F,#1565C0);
 
     color:#fff;
 
