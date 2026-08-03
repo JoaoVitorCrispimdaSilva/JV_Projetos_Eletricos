@@ -585,7 +585,7 @@ Descrição do projeto:
 
 ${mensagem}`;
 
-        const numero = "5584992053720"; // ALTERE PARA SEU NÚMERO
+        const numero = "5584991268477"; // ALTERE PARA SEU NÚMERO
 
         const url =
 
